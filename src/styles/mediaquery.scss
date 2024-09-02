@@ -6,7 +6,7 @@
         >div{
             height: 120vh;
             >p{
-                font-family: $text1;
+                font: italic 100 1.2rem $text1;
             }
         }
     }
@@ -54,7 +54,7 @@
         >div{
             width: 90%;
             >p{
-                font-family: $text1;
+                font: 100 1.2rem $text1;
             }
         
         }
