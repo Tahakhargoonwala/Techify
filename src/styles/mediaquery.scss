@@ -5,6 +5,9 @@
         height: 130vh;
         >div{
             height: 120vh;
+            >p{
+                font-family: $text1;
+            }
         }
     }
 
@@ -50,6 +53,9 @@
         }
         >div{
             width: 90%;
+            >p{
+                font-family: $text1;
+            }
         
         }
     }
